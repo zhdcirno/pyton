@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://G:/Pythonstudy/.idea/Pythonstudy.iml" filepath="G:/Pythonstudy/.idea/Pythonstudy.iml" />
+      <module fileurl="file://G:/python/.idea/pyton.iml" filepath="G:/python/.idea/pyton.iml" />
+      <module fileurl="file://G:/web/.idea/web.iml" filepath="G:/web/.idea/web.iml" />
+    </modules>
+  </component>
+</project>
